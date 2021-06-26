@@ -1,4 +1,4 @@
-# How to run this Restful Server
+# How to run this Restful API
 
 ## Clone from github
 
